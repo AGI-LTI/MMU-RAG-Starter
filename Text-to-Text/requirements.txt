@@ -1,4 +1,0 @@
-transformers
-faiss-cpu
-sentence-transformers
-pyyaml
